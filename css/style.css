@@ -33,3 +33,8 @@ body{
     border-radius: 50px;
 
 }
+@media (max-width: 767px){
+     .m-4{
+         width: 300px;
+     }
+}
